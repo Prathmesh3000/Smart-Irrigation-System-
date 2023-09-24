@@ -184,9 +184,7 @@ However, IoT devices help you in connecting or unify all the greenhouses in one 
 
 
 
-9.  ARDUINO CODE:
-
-//Tech Trends Shameer
+9.  ARDUINO CODE: 
 //Smart Irrigation System
 
 int sensor_pin= A0;
